@@ -1,0 +1,104 @@
+
+.logo img{
+    width: 100px;
+    height: 100px;
+}
+.KFC{
+    background-color: red;
+}
+.KFC h1{
+    color: white;
+}
+.menu{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.intro{
+    color: white;
+    background-color: brown;
+}
+.intro h2{
+    text-align: center;
+    font-size: 40px;
+}
+.intro p{
+    font-size: 30px;
+    text-align: justify;
+}
+.development{
+    color: white;
+    background-color: brown;
+}
+.development h1{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 40px;
+}
+.development ul li{
+    list-style-type: none;
+    font-size: 25px;
+    text-align: center;
+}
+.development img{
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+table {
+    border: 1px solid black;
+    width: 900px;
+    height: 800px;
+    margin: 0 auto; 
+    border-collapse: collapse;
+}
+
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+
+.center-align {
+    text-align: center;
+}
+
+.right-align {
+    text-align: right;
+}
+
+
+.green-tea {
+    background-image: url("img/greentea.jpg");
+    background-size: cover;
+    text-align: right;
+}
+
+.black-tea {
+    background-image: url("img/blacktea.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.olong-tea {
+    background-image: url("img/olongtea.jpg");
+    background-size: cover;
+    
+}
+
+.fruit-tea {
+    background-image: url("img/fruit.jpg");
+    background-size: cover;
+    text-align: center; 
+}
+
+.milk-tea {
+    background-image: url("img/milktea.png");
+    background-size: cover;
+    text-align: center; 
+}
+
+
